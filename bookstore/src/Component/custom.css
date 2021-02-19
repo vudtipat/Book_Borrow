@@ -1,0 +1,62 @@
+.centered {
+    height: 100vh; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    content: "";
+    opacity: 0.8;
+    background: rgb(26, 31, 41) url('https://i.insider.com/5e557d9fa9f40c1d4f6a1ac3?width=1100&format=jpeg&auto=webp') no-repeat fixed top;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .centered_Register {
+    height: 100vh; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    content: "";
+    opacity: 0.8;
+    background: rgb(26, 31, 41) url('https://images-na.ssl-images-amazon.com/images/I/714sdCHaMvL._AC_SL1116_.jpg') no-repeat fixed top;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+.centered_Forget {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 0.8;
+  background: rgb(26, 31, 41) url('https://cdn11.bigcommerce.com/s-3p90sxcn/images/stencil/original/products/76/5299/vintage_bookshelf_square__86648.1573823463.jpg?c=2') no-repeat fixed top;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}  
+.backgrond {
+    height: 50vh; 
+    width: 60vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: 'rgba(100, 100, 100, 0.8)';
+}
+
+.backgrond1 {
+  height: 70vh; 
+  width: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: 'rgba(100, 100, 100, 0.8)';
+}
+
+.backgrond2 {
+  height: 100vh; 
+  width: 170vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: 'rgba(100, 100, 100, 0.8)';
+}
